@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Recorder" Collapsed="true">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgACAAAAAAGACQIAAQAAABEAAAAQAAAQgAAEA=</HashCode>
+      <FileName>Assets\Scripts\Recorder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sword" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Recordable\Player\Sword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recordable.Player" Collapsed="true">
+    <Position X="2.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAQA=</HashCode>
+      <FileName>Assets\Scripts\Recordable\Player\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recordable.Enemy" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAQABAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Recordable\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recordable.Recordable" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAIAAAAAQAEAAAABAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Recordable\Recordable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recordable.Animated" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAIAAAAAgAACAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Recordable\Recordable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recordable.RigidAnimated" Collapsed="true">
+    <Position X="1.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Recordable\Recordable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recordable.SimpleAnimation" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Recordable\Recordable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.GameController" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAgACAAAAAACBIAAAAAAAAAEAAACAAAAAAIQAA=</HashCode>
+      <FileName>Assets\Scripts\GameController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Misc.Tools" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Misc\Tools.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Misc.Constants" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Misc\Constants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recordable.Explosion" Collapsed="true">
+    <Position X="6.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Recordable\Explosion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recordable.RecordableState" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAIAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Recordable\Recordable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recordable.CounterTerrorist" Collapsed="true">
+    <Position X="4.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Recordable\CounterTerrorist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recordable.Operator" Collapsed="true">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Recordable\Operator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recordable.Terrorist" Collapsed="true">
+    <Position X="6" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Recordable\Terrorist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Core.GameStage" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAhAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameController.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Arial" Size="10" />
+</ClassDiagram>
