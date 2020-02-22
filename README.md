@@ -4,11 +4,11 @@ A top down 1v1 turn-based tactics game. The game closely resembles a Counter Str
 
 ## Features
 
-* Replay: player's can view the action over and over
-* Fog of war: player can only see the enemy units that are visible to his units
-* Basic AI: ai characters react to enemies they see and shoot at them
-* Path follow: characters follow the paths given to them by the player
-* Hotseat logic: players switch only when absolutely necessary
+* <strong>Replay</strong>: player's can view the action over and over
+* <strong>Fog of war</strong>: player can only see the enemy units that are visible to his units
+* <strong>Basic AI</strong>: ai characters react to enemies they see and shoot at them
+* <strong>Path follow</strong>: characters follow the paths given to them by the player
+* <strong>Hotseat logic</strong>: players switch only when absolutely necessary
 * Bomb (this is still in an ugly state): bomb can be planted, taken from the ground, and defused.
 * Own collision detection for the path drawing tool
 
